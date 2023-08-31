@@ -1,5 +1,5 @@
 {
-  "keywordFileContentHash": "607668C2BCC2DFC07C7E8442849038F0",
+  "keywordFileContentHash": "8C08CCF368F3BAC72EF6D5EA7B50DA2E",
   "keywordClasses": [
     {
       "name": "com.gpostlite.website.LoginPage",
@@ -16,11 +16,6 @@
         },
         {
           "name": "validateInvalidCredentials",
-          "parameters": [],
-          "javadoc": ""
-        },
-        {
-          "name": "validateInvalidUPassword",
           "parameters": [],
           "javadoc": ""
         }

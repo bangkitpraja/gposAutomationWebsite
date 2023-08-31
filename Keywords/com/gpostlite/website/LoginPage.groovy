@@ -33,41 +33,21 @@ public class LoginPage {
 		element.add(findTestObject('Page Masuk - GPOS Lite/glBtn_masuk'))
 		validation.validateElementPresent(element)
 	}
-	
+
 	@Keyword
 	def validateDashboardPageElementPresent() {
 		ArrayList<TestObject> element = new ArrayList<TestObject>();
 		element.add(findTestObject('Page_Dasbor - GPOS Lite/glPopupImage'))
 		element.add(findTestObject('Page_Dasbor - GPOS Lite/glDashboardTitle'))
 		validation.validateElementPresent(element)
-		
-//		boolean login = true
-//		
-//		if (element.add(findTestObject('Page Masuk - GPOS Lite/alerts'))) {
-//			login == false
-//		} else {
-//			element.add(findTestObject('Page_Dasbor - GPOS Lite/glPopupImage'))
-//			element.add(findTestObject('Page_Dasbor - GPOS Lite/glDashboardTitle'))
-//			validation.validateElementPresent(element)
-//		}
-	
 	}
 
 	@Keyword
 	def validateInvalidCredentials() {
 		ArrayList<TestObject> element = new ArrayList<TestObject>();
 		ArrayList<String> expected_text = new ArrayList<String>();
-		element.add(findTestObject('Page Masuk - GPOS Lite/alerts'))
-		expected_text.add('Ups, akun ini belum terdaftar')
-		validation.validateElementText(element,expected_text)
-	}
-
-	@Keyword
-	def validateInvalidUPassword() {
-		ArrayList<TestObject> element = new ArrayList<TestObject>();
-		ArrayList<String> expected_text = new ArrayList<String>();
-		element.add(findTestObject('Login/Alert_password_not_correct'))
-		expected_text.add('Ups, email atau password kamu salah')
+		element.add(findTestObject('Page Masuk - GPOS Lite/glAlerts'))
+		expected_text.add('Tidak dapat memverifikasi user')
 		validation.validateElementText(element,expected_text)
 	}
 }

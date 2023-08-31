@@ -21,3 +21,5 @@ WebUI.verifyElementVisible(findTestObject('Page Masuk - GPOS Lite/glAlerts'), Fa
 //WebUI.waitForElementVisible(findTestObject('Page Masuk - GPOS Lite/alerts'), 5)
 
 WebUI.verifyTextPresent('Tidak dapat memverifikasi user', false)
+
+CustomKeywords.'com.gpostlite.website.LoginPage.validateInvalidCredentials'()

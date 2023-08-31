@@ -65,5 +65,4 @@ public class Validation {
 			KeywordUtil.markPassed("Element Text in Validation Success")
 		}
 	}
-
 }
