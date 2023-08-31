@@ -1,0 +1,72 @@
+1
+00:00:00,455 --> 00:00:01,263
+1. runFeatureFile("Include/features/Poin of Sale Page/GL02-Open List Item.feature")
+
+2
+00:00:01,263 --> 00:00:09,640
+1. com.gpostlite.website.BrowserUtility.openURL("https://devmini.gpos-efarmasi.com/")
+
+3
+00:00:09,641 --> 00:00:10,251
+5. waitForElementVisible(findTestObject("Page Masuk - GPOS Lite/glWelcomeContinue"), element_timeout)
+
+4
+00:00:10,251 --> 00:00:10,985
+9. waitForElementVisible(findTestObject("Page Masuk - GPOS Lite/glWelcomePage"), element_timeout)
+
+5
+00:00:10,986 --> 00:00:11,454
+13. verifyTextPresent("Masuk", false)
+
+6
+00:00:11,454 --> 00:00:12,586
+1. com.gpostlite.website.LoginPage.validateLoginPageElementPresent()
+
+7
+00:00:12,586 --> 00:00:13,460
+5. setText(findTestObject("Page Masuk - GPOS Lite/glEmail"), username)
+
+8
+00:00:13,460 --> 00:00:13,989
+9. setEncryptedText(findTestObject("Page Masuk - GPOS Lite/glPassword"), password)
+
+9
+00:00:13,990 --> 00:00:14,510
+13. com.gpostlite.website.BrowserUtility.clickButton(findTestObject("Page Masuk - GPOS Lite/glBtn_masuk"), STOP_ON_FAILURE, "Success to login")
+
+10
+00:00:14,510 --> 00:00:19,542
+1. waitForElementVisible(findTestObject("Page_Dasbor - GPOS Lite/glDashboardTitle"), element_timeout)
+
+11
+00:00:19,542 --> 00:00:20,554
+5. com.gpostlite.website.LoginPage.validateDashboardPageElementPresent()
+
+12
+00:00:20,554 --> 00:00:21,056
+1. com.gpostlite.website.BrowserUtility.clickButton(findTestObject("Page_Dasbor - GPOS Lite/glCloseBtnPopup"), STOP_ON_FAILURE, "Success to Close Popup Image")
+
+13
+00:00:21,056 --> 00:00:23,714
+1. com.gpostlite.website.BrowserUtility.clickButton(findTestObject("Page_Dasbor - GPOS Lite/glPOS"), STOP_ON_FAILURE, "Success to open Poin of Sale Dashboard")
+
+14
+00:00:23,730 --> 00:00:25,366
+1. waitForElementVisible(findTestObject("Page_Point Of Sales - GPOS Lite/glPOSDashboard"), element_timeout)
+
+15
+00:00:25,366 --> 00:00:26,117
+5. verifyTextPresent("Testing Accounting V2 (Aris PKP)", false)
+
+16
+00:00:26,117 --> 00:00:27,371
+1. com.gpostlite.website.BrowserUtility.clickButton(findTestObject("Page_Point Of Sales - GPOS Lite/glSearchBtn"), STOP_ON_FAILURE, "Success to open list item")
+
+17
+00:00:27,371 --> 00:00:27,749
+1. verifyElementVisible(findTestObject("Page_Point Of Sales - GPOS Lite/List Item/glModalListItem"), STOP_ON_FAILURE)
+
+18
+00:00:27,750 --> 00:00:30,117
+5. verifyTextPresent("LIST ITEM", false)
+
