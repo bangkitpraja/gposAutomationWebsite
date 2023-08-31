@@ -28,6 +28,9 @@ These instructions will get you a copy of the project up and running on your loc
 2. Select the Test Suites **RunAllScenario** to run all scenario or select a single test suites
 3. Execute the **Test Suites** by click Run button or using shortcut key CTRL + SHIFT + A
 
+### Report
+To generate report make sure you already install [**Basic Report**](https://store.katalon.com/product/59/Basic-Report) plugin
+
 ## Test Features
 Below is sample gherkin language that used for the Test Cases
 ### Story: As a user I want to login to GPOS Lite
