@@ -1,0 +1,31 @@
+{
+  "keywordFileContentHash": "607668C2BCC2DFC07C7E8442849038F0",
+  "keywordClasses": [
+    {
+      "name": "com.gpostlite.website.LoginPage",
+      "keywordMethods": [
+        {
+          "name": "validateLoginPageElementPresent",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "validateDashboardPageElementPresent",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "validateInvalidCredentials",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "validateInvalidUPassword",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "A5DB3733A9A1DB35C77C0CB3CD4BB281",
+  "keywordClasses": [
+    {
+      "name": "com.gposlite.pos.SearchItemList",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

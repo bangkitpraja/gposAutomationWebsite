@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>glWelcomeContinue</name>
+   <tag></tag>
+   <elementGuidId>a9d91e12-1085-4f2a-98fa-1d19b6ad769c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>h3.signin-title-secondary</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@class='signin-title-secondary']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h3</value>
+      <webElementGuid>08ec6f11-b70c-4cf2-947f-a684a868020a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>signin-title-secondary</value>
+      <webElementGuid>8ba86b47-0cab-4ad7-ba07-a5242b2be82e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Masuk Untuk Melanjutkan!</value>
+      <webElementGuid>59785ed5-689b-4f61-9316-7010761e73ef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[1]/div[@class=&quot;d-md-flex flex-row-reverse&quot;]/div[@class=&quot;signin-right&quot;]/div[@class=&quot;signin-box&quot;]/div[@class=&quot;text-center&quot;]/h3[@class=&quot;signin-title-secondary&quot;]</value>
+      <webElementGuid>f1a3b7db-b97f-42f6-a453-1fd23e1347a2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div/div/div/div/h3</value>
+      <webElementGuid>f2c21aca-2687-4e3a-9450-0bfae1a237d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Selamat Datang!'])[1]/following::h3[1]</value>
+      <webElementGuid>2caf2587-6f82-4fad-8a69-2a0f82820abb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Masuk'])[1]/preceding::h3[1]</value>
+      <webElementGuid>ec21b5bf-2d97-4fd2-b87e-6cc458c2ea88</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Masuk Untuk Melanjutkan!']/parent::*</value>
+      <webElementGuid>46d9528b-4dc6-4206-a1b5-65b9a3b4c767</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h3</value>
+      <webElementGuid>05d1045d-0f99-4e1d-8302-ace924cda717</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h3[(text() = 'Masuk Untuk Melanjutkan!' or . = 'Masuk Untuk Melanjutkan!')]</value>
+      <webElementGuid>2fb59d19-f16a-4b6f-99c2-b7349ff25ab0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

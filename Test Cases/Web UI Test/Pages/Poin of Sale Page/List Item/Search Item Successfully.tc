@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Search Item Successfully</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5759b771-c66b-48ba-9baf-85e356dddbe3</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>5c7c81c1-6b8b-49d1-936e-9aa51fe46bad</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'amox'</defaultValue>
+      <description></description>
+      <id>5c7c81c1-6b8b-49d1-936e-9aa51fe46bad</id>
+      <masked>false</masked>
+      <name>item</name>
+   </variable>
+</TestCaseEntity>

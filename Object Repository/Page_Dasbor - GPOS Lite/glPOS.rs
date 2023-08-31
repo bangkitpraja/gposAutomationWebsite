@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>glPOS</name>
+   <tag></tag>
+   <elementGuidId>225d9442-c3d6-45bc-a3d9-2653061594c8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.btn.btn-header</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@href='/point-of-sales']</value>
+      </entry>
+      <entry>
+         <key>IMAGE</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>6f5a3a12-1cd2-44b4-a43a-c8652c1861fc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/point-of-sales</value>
+      <webElementGuid>b18bfbe1-6a80-4999-baaf-ba463444e4f4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-header</value>
+      <webElementGuid>4f9e9091-e67e-43ad-8c14-74eb0f0a03ca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Point of Sale (POS)</value>
+      <webElementGuid>0bcab3af-27f4-4a50-8c64-30d82da51fec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[1]/div[@class=&quot;slim-header&quot;]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;slim-header-left clearfix&quot;]/div[@class=&quot;float-left&quot;]/a[@class=&quot;btn btn-header&quot;]</value>
+      <webElementGuid>8ed70ed9-860c-4e63-883b-80de35a6def3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div/div/div/div/a</value>
+      <webElementGuid>450506f6-6de9-447c-ab6b-712980b79ce5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Point of Sale (POS)')]</value>
+      <webElementGuid>f7c644f0-1e72-4a11-8a85-dfa9f4044243</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Online'])[1]/preceding::a[1]</value>
+      <webElementGuid>0932215d-462c-4516-baca-a8accc8f684b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Point of Sale (POS)']/parent::*</value>
+      <webElementGuid>c82b7477-cafd-46eb-a299-18a017b82cf3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/point-of-sales')]</value>
+      <webElementGuid>bdd5cce7-b47d-4695-baec-4d19c038f52b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a</value>
+      <webElementGuid>df721e41-f7f9-4fd4-abc8-ae3d2a25c287</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/point-of-sales' and (text() = 'Point of Sale (POS)' or . = 'Point of Sale (POS)')]</value>
+      <webElementGuid>9b3e1cd0-57ec-4724-bbcc-27739a8aa85f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

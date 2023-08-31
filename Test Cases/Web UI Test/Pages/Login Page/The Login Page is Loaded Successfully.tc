@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>The Login Page is Loaded Successfully</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ab05a735-c3c5-45c9-b3a3-9ccc5674984b</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>0ffcb400-9002-4e2c-ac23-2acd7227ae14</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>24f49121-36aa-46fc-bb02-6f1b58f3b7c0</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>0ffcb400-9002-4e2c-ac23-2acd7227ae14</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>24f49121-36aa-46fc-bb02-6f1b58f3b7c0</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

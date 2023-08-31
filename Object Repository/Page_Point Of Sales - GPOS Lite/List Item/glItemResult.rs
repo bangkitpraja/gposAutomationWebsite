@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>glItemResult</name>
+   <tag></tag>
+   <elementGuidId>7c67a7b1-02db-4256-98d7-f7422bbd43d5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='table-item-modal-pos']/tbody/tr/td[6]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>td.focus</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>422c3f71-489f-45d6-a589-fae6954dfb6e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>focus</value>
+      <webElementGuid>07bcbb32-83c5-4281-962c-a0802c8f0f9d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>AMOXICILLIN IFARS 500 MG BOX 10 STR @ 10 TABLokasi Rak: -</value>
+      <webElementGuid>bcb21745-5cd2-405d-93f2-6150dfd8664d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;table-item-modal-pos&quot;)/tbody[@class=&quot;table-body&quot;]/tr[@class=&quot;odd selected&quot;]/td[@class=&quot;focus&quot;]</value>
+      <webElementGuid>c24f6549-5892-4cc1-8ce6-f2e5749098f8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='table-item-modal-pos']/tbody/tr/td[6]</value>
+      <webElementGuid>98df8c9f-994a-486e-bf8b-8018bb912fa0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Inventory'])[2]/following::td[3]</value>
+      <webElementGuid>6b74224a-14e2-4052-abc8-43d0b7c8282f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Active'])[1]/following::td[6]</value>
+      <webElementGuid>b1491266-dcaa-4871-bb7a-9117e9202be9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rp. 600'])[1]/preceding::td[1]</value>
+      <webElementGuid>1bbd953b-9d96-41ca-9c1e-9b33481f88dc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rp. 666'])[1]/preceding::td[2]</value>
+      <webElementGuid>8941bd72-6a4d-442b-bbca-42172ca4b957</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='AMOXICILLIN IFARS 500 MG BOX 10 STR @ 10 TAB']/parent::*</value>
+      <webElementGuid>d854aa8c-9683-484f-aa1b-b73569c2a352</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[6]</value>
+      <webElementGuid>b79376b7-d1de-441b-be56-51223302f486</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'AMOXICILLIN IFARS 500 MG BOX 10 STR @ 10 TABLokasi Rak: -' or . = 'AMOXICILLIN IFARS 500 MG BOX 10 STR @ 10 TABLokasi Rak: -')]</value>
+      <webElementGuid>25317fcb-a9d0-4d20-9012-14274e11f474</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

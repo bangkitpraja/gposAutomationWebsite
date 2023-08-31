@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>glPopupImage</name>
+   <tag></tag>
+   <elementGuidId>5613f963-5769-4bc2-b251-4b4d92b9416c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>img[title=&quot;iPOS PBF Online&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='popup']/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>24741063-809a-4a1d-94a1-c61c949cbb2a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/static/one/images/pop_up_banner.jpg</value>
+      <webElementGuid>f5b5b5fc-a482-4146-aaa7-11d6396d0c2a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>iPOS PBF Online</value>
+      <webElementGuid>be6d412c-4bf3-4fd9-8465-4aa5bee6e9a8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;popup&quot;)/img[1]</value>
+      <webElementGuid>91e3aa93-edb8-4f43-87ec-5f23c7e9d77d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='popup']/img</value>
+      <webElementGuid>2cc539fc-7e18-49e4-8278-24c2299b21ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@title='iPOS PBF Online']</value>
+      <webElementGuid>1aff5692-7ebc-49c3-ac0b-59f8ee595f4e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/a/img</value>
+      <webElementGuid>4f4e4b68-fbae-46eb-929b-93a22b40e491</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '/static/one/images/pop_up_banner.jpg' and @title = 'iPOS PBF Online']</value>
+      <webElementGuid>a8bd1793-0986-4547-885a-d702c9c858e9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
